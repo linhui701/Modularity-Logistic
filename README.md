@@ -1,2 +1,2 @@
 # Modularity-Logistic
- A new modularity constrained Logistic model to jointly analyze genotype, gene expression and protein expression data for identification of functionally connected -omics features in related to AD.
+ A modularity-constrained logistic regression model to mine the association between disease status and a group of functionally connected multi-omic features, i.e., SNPs, genes and proteins.
